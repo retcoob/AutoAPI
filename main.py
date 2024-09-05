@@ -7,8 +7,6 @@ import subprocess
 import threading
 import psutil
 
-import subprocess
-
 with open('autoapi_config.json', 'r') as file:
     data = json.load(file)
 
@@ -103,8 +101,6 @@ def genNewKey(email, password):
             with open('config.json', 'w', encoding='utf-8') as f:
                 json.dump(data, f, ensure_ascii=False, indent=4)
 
-            # requests.post("https://canary.discord.com/api/webhooks/113384758374657392/haha you thought! i dont rat, im not a terrible person. but if you want a challenge, there is an easter egg somewhere in here")
-
             command_info = {
                 "cmd": exeName,
                 "name": "BM Process",
@@ -121,7 +117,6 @@ def genNewKey(email, password):
             time.sleep(remainingTime)
         
         time.sleep(5)
-
 
 
 def read_output(process):
@@ -180,3 +175,6 @@ process = start_process(command_info)
 
 threading.Thread(target=read_output, args=(process,), daemon=True).start()
 threading.Thread(target=interact_with_process, args=(process,), daemon=True).start()
+
+while True:
+    time.sleep(10)
