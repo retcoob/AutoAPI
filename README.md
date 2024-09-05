@@ -22,3 +22,6 @@ Captcha solver is [capmonster](https://capmonster.cloud/en/)
 Each time a new key is retrieved it costs `0.0013 USD`.
 Developer keys are set at 1 day until renewal time.
 This tool uses (about) `0.4745 USD` per year.
+
+## Issues?
+Probably some or a lot, I wrote this while tired. Make an issue or something
