@@ -13,7 +13,7 @@ Captcha solver is [capmonster](https://capmonster.cloud/en/)
 
 ## How to get balance
 1. Sign up, ask for trial credits/money (not sure if it works)
-2. Make a review
+2. Make a review\
 ![image](https://github.com/user-attachments/assets/a2546d21-289a-4165-a86c-fa5b1a7ed0bf)
 
 4. Deposit actual money
