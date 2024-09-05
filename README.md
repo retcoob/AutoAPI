@@ -13,8 +13,10 @@ Captcha solver is [capmonster](https://capmonster.cloud/en/)
 
 ## How to get balance
 1. Sign up, ask for trial credits/money (not sure if it works)
-2. Make a review ![image](https://github.com/user-attachments/assets/a2546d21-289a-4165-a86c-fa5b1a7ed0bf)
-3. Deposit actual money
+2. Make a review
+![image](https://github.com/user-attachments/assets/a2546d21-289a-4165-a86c-fa5b1a7ed0bf)
+
+4. Deposit actual money
 
 ## Balance usage
 Each time a new key is retrieved it costs `0.0013 USD`.
