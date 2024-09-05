@@ -24,4 +24,5 @@ Developer keys are set at 1 day until renewal time.
 This tool uses (about) `0.4745 USD` per year.
 
 ## Issues?
-Probably some or a lot, I wrote this while tired. Make an issue or something
+Tbh not sure if it even works, I stopped playing SB.
+Make an issue or something
